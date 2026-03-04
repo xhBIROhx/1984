@@ -48,7 +48,6 @@ namespace Bingo
 						Console.WriteLine($"{jatekos.Nev} nyert!");
 						jatekos.KartyatMegjelenit();
 						vanBingo = true;
-						break;
 					}
 				}
 			}
